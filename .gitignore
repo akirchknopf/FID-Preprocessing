@@ -1,0 +1,4 @@
+venv/
+venv_working/
+.idea/
+.ipynb_checkpoint
